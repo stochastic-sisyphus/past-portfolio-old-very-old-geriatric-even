@@ -20,10 +20,27 @@ Portfolio adjacent. This is a collection of data analysis and data science, stat
 - [M.S. Analytics; Machine Learning Specialization](#M.S.-Analytics;-Machine-Learning-Specialization)
   - [Skills and Technologies](#skills-and-technologies)
   - [Quick Links](#quick-links)
-  - [Featured Projects](#featured-projects)
-  - [Repository Structure](#repository-structure)
+  - [Latest Repositories](#latest-repositories)
+    - [Featured Projects](#featured-projects)
+    - [Repository Structure](#repository-structure)
   - [Project Breakdown](#project-breakdown)
   - [About Me](#about-me)
+- [Portfolio README Automation](Documentation/portfolio-updater.md)
+
+## Latest Repositories
+
+_This section is automatically refreshed by [`scripts/update_portfolio.py`](scripts/update_portfolio.py)._
+
+<!-- REPO-LIST:START -->
+- [code-cartographer](https://github.com/stochastic-sisyphus/code-cartographer) - Deep static analyzer for Python projects.
+- [chipop-pred-apropos](https://github.com/stochastic-sisyphus/chipop-pred-apropos) - Chicago population forecast system.
+- [Masters-Capstone-Bosch-Metadata-LLM](https://github.com/stochastic-sisyphus/Masters-Capstone-Bosch-Metadata-LLM) - LLM-powered metadata enrichment.
+- [synsearch](https://github.com/stochastic-sisyphus/synsearch) - Semantic search engine.
+- [adv_data_processing_pipeline](https://github.com/stochastic-sisyphus/adv_data_processing_pipeline) - Modular data pipeline.
+- [feature-selection-optuna-remix](https://github.com/stochastic-sisyphus/feature-selection-optuna-remix) - Advanced feature selection with Optuna.
+- [research-tools](https://github.com/stochastic-sisyphus/research-tools) - Research automation utilities.
+- [content-processing](https://github.com/stochastic-sisyphus/content-processing) - Content analysis helpers and workflows.
+<!-- REPO-LIST:END -->
 
 ---
 

@@ -1,0 +1,74 @@
+[
+  {
+    "archived": false,
+    "description": "Deep static analyzer for Python projects.",
+    "fork": false,
+    "html_url": "https://github.com/stochastic-sisyphus/code-cartographer",
+    "name": "code-cartographer",
+    "pushed_at": "2024-03-01T12:00:00Z",
+    "updated_at": "2024-03-02T08:30:00Z"
+  },
+  {
+    "archived": false,
+    "description": "Chicago population forecast system.",
+    "fork": false,
+    "html_url": "https://github.com/stochastic-sisyphus/chipop-pred-apropos",
+    "name": "chipop-pred-apropos",
+    "pushed_at": "2024-02-20T18:45:00Z",
+    "updated_at": "2024-02-21T07:10:00Z"
+  },
+  {
+    "archived": false,
+    "description": "LLM-powered metadata enrichment.",
+    "fork": false,
+    "html_url": "https://github.com/stochastic-sisyphus/Masters-Capstone-Bosch-Metadata-LLM",
+    "name": "Masters-Capstone-Bosch-Metadata-LLM",
+    "pushed_at": "2024-02-11T15:25:00Z",
+    "updated_at": "2024-02-11T15:25:00Z"
+  },
+  {
+    "archived": false,
+    "description": "Semantic search engine.",
+    "fork": false,
+    "html_url": "https://github.com/stochastic-sisyphus/synsearch",
+    "name": "synsearch",
+    "pushed_at": "2024-01-29T22:17:00Z",
+    "updated_at": "2024-01-29T22:17:00Z"
+  },
+  {
+    "archived": false,
+    "description": "Modular data pipeline.",
+    "fork": false,
+    "html_url": "https://github.com/stochastic-sisyphus/adv_data_processing_pipeline",
+    "name": "adv_data_processing_pipeline",
+    "pushed_at": "2024-01-19T11:02:00Z",
+    "updated_at": "2024-01-19T11:02:00Z"
+  },
+  {
+    "archived": false,
+    "description": "Advanced feature selection with Optuna.",
+    "fork": false,
+    "html_url": "https://github.com/stochastic-sisyphus/feature-selection-optuna-remix",
+    "name": "feature-selection-optuna-remix",
+    "pushed_at": "2023-12-18T14:48:00Z",
+    "updated_at": "2023-12-19T09:00:00Z"
+  },
+  {
+    "archived": false,
+    "description": "Research automation utilities.",
+    "fork": false,
+    "html_url": "https://github.com/stochastic-sisyphus/research-tools",
+    "name": "research-tools",
+    "pushed_at": "2023-12-01T20:14:00Z",
+    "updated_at": "2023-12-01T20:14:00Z"
+  },
+  {
+    "archived": false,
+    "description": "Content analysis helpers and workflows.",
+    "fork": false,
+    "html_url": "https://github.com/stochastic-sisyphus/content-processing",
+    "name": "content-processing",
+    "pushed_at": "2023-11-10T16:05:00Z",
+    "updated_at": "2023-11-10T16:05:00Z"
+  }
+]
